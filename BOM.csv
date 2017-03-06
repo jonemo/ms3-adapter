@@ -1,0 +1,14 @@
+Part,Value,Device,Description,VENDOR,VENDOR_PN
+D1,PWR,LED5MM (GREEN),LED (Generic),Sparkfun,COM-12903
+D2,DATA OUT,LED5MM (BLUE),LED (Generic),Sparkfun,COM-12903
+D3,DATA IN,LED5MM (YELLOW),LED (Generic),Sparkfun,COM-12903
+F1,FUSE,FUSE,,Sparkfun,COM-10166
+J1,TO PC,DB9-FEMALE,DB9 Connector,Sparkfun,PRT-00429
+J2,POWER,POWER_JACK,Power Jack Connector,Sparkfun,PRT-00119
+J3,TO MS3,DB15-MALE,,Digikey,A31927-ND
+R1,,RESISTOR-AXIAL-0.3,Generic Resistor Package,Sparkfun,
+R2,,RESISTOR-AXIAL-0.3,Generic Resistor Package,Sparkfun,
+R3,,RESISTOR-AXIAL-0.3,Generic Resistor Package,Sparkfun,
+S1,PWRSWITCH,SWITCH-SPDT-PTH-11.6X4.0MM,"Single Pole, Double Throw (SPDT) Switch",Sparkfun,COM-00102
+S2,TRIGGER,MOMENTARY-SWITCH-SPST-PTH-12MM,Momentary Switch (Pushbutton) - SPST,Sparkfun,COM-09190
+S3,RESET,MOMENTARY-SWITCH-SPST-PTH-12MM,Momentary Switch (Pushbutton) - SPST,Sparkfun,COM-09190
